@@ -431,7 +431,7 @@ form.sign-up-form {
 
 @media (max-width: 320px) {
     form {
-        width: 90%;
+        width: 80%;
     }
 }
 
