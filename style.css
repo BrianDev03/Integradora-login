@@ -393,7 +393,7 @@ form.sign-up-form {
 @media (max-width: 779px) {
     .container {
         width: 80vw;
-        height: 85vh;
+        height: 75vh;
     }
 }
 
